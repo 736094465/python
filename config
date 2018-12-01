@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/736094465/python.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	email=736094465@qq.com
+	name=736094465
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[http]
+	sslVerify = false
