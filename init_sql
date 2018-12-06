@@ -1,0 +1,1 @@
+create table t_house( h_id int, x_id int, x_name varchar(100), h_desc varchar(250), size int, price int, total int, r_total inttal int, uptime date, focus int, dealtime date, days int, addr varchar(200) );
